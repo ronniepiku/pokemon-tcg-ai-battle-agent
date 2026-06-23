@@ -1,4 +1,4 @@
-Differences Between the Official Pokémon TCG Rules and the Simulator Behavior
+# Differences Between the Official Pokémon TCG Rules and the Simulator Behavior
 
 The simulator used in this competition is designed for AI-vs-AI battles, and its rules and behavior may differ in some respects from those of the official Pokémon Trading Card Game. Below is a summary of the differences we are currently aware of.
 

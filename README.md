@@ -31,7 +31,7 @@ The agent is **robust-first, strong-second**:
 
 ### Project structure
 
-```
+```python
 main.py                 # Kaggle entry point: agent(obs_dict) -> list[int]
 deck.csv                # 60-card deck (one card ID per line)
 bot/
