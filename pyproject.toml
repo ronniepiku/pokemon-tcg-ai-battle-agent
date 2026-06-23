@@ -1,0 +1,12 @@
+[project]
+name = "pokemon-tcg-ai-battle-agent"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "kaggle-environments>=0.1.6",
+    "torch>=2.12.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
