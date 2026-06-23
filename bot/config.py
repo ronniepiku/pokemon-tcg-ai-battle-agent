@@ -1,8 +1,8 @@
 """Configuration for the Pokémon TCG agent.
 
 Two profiles are provided:
-  * ``fast``   – tiny search budget for quick local iteration / CI.
-  * ``ladder`` – stronger search budget for competitive play.
+  * ``fast``   - tiny search budget for quick local iteration / CI.
+  * ``ladder`` - stronger search budget for competitive play.
 
 Every field can be overridden through environment variables so behaviour is
 reproducible without code changes, e.g. ``CABT_PROFILE=fast CABT_SEED=7``.
